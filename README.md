@@ -12,4 +12,6 @@ Scoreboard: keeps track of the score.
 Car Manager: Controls the car speed and random spawn location.
 Player: Controls the player's movement and turtle
 
+## Image
+
 ![image](https://user-images.githubusercontent.com/90845534/211130031-beab9c49-4bd8-460d-aeb2-0fb0f93e9b7f.png)
