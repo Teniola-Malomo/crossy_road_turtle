@@ -1,8 +1,11 @@
-# crossy_road_turtle
-A road crossing game made using the Turtle and Tkinter Module
+# Cross Road Turtle Game
 
+## Description
 A crossy_road_game, made using the turtle and Tkinter module.
 
+Player must reach the other side of the road to reach the next level. Add the level increases the car's speed increases.
+
+## Implmentation
 Each file is responsible for each component of the game and is constructed using OOP; 
 
 Scoreboard: keeps track of the score.
